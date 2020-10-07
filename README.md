@@ -4,4 +4,4 @@
 
 [A similar project tutorial](https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial) 
 
-[https://www.kaggle.com/allunia/pulmonary-dicom-preprocessing)
+[laura fink](https://www.kaggle.com/allunia/pulmonary-dicom-preprocessing)
